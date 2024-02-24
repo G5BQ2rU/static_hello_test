@@ -3,7 +3,7 @@
 #include <iostream>
 
 void hello() {
-    std::cout << "static hello test: \"Hello, World!\"" << std::endl;
+    std::cout << "fork static hello test: \"Hello, World!\"" << std::endl;
 }
 
 int hello_add(int a,int b){
